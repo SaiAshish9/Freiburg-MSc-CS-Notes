@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
+                "file": "sem 1/Foundations of Deep Learning/20.10.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "20.10.26"
             }
           }
         ],
@@ -203,15 +203,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "97fe11dbb1e63b32",
+  "active": "5724d073c9261ed3",
   "lastOpenFiles": [
-    "sem 1/Exercises/Machine Learning/Introduction.md",
-    "sem 1/Exercises/Foundations of Deep Learning/Introduction.md",
+    "sem 1/Exercises/Machine Learning/Exercise 1.md",
+    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
     "sem 1/Exercises/Machine Learning",
     "sem 1/Exercises/Foundations of Deep Learning",
     "sem 1/Exercises",
     "sem 1/Self Study Notes/Machine Learning/Introduction.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
     "sem 1/APIS Germin/21.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/Introduction",
     "Welcome.md",
