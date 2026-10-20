@@ -203,8 +203,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5724d073c9261ed3",
+  "active": "97fe11dbb1e63b32",
   "lastOpenFiles": [
+    "sem 1/Exercises/Machine Learning/Introduction.md",
+    "sem 1/Exercises/Foundations of Deep Learning/Introduction.md",
+    "sem 1/Exercises/Machine Learning",
+    "sem 1/Exercises/Foundations of Deep Learning",
+    "sem 1/Exercises",
     "sem 1/Self Study Notes/Machine Learning/Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
     "sem 1/APIS Germin/21.10.26.md",
@@ -222,9 +227,6 @@
     "sem 1/Probability and Statistics",
     "sem 1/Digital Health/19.10.26.md",
     "sem 1/APIS Germin/19.10.26.md",
-    "sem 1/Foundations of Deep Learning",
-    "sem 1/Digital Health",
-    "sem 1/Automated Reasoning",
-    "sem 1/APIS Germin"
+    "sem 1/Foundations of Deep Learning"
   ]
 }
