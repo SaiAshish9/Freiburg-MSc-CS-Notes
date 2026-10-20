@@ -25,14 +25,12 @@
             "id": "5724d073c9261ed3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem 1/Foundations of Deep Learning/20.10.26.md",
-                "mode": "source",
-                "source": false
+                "file": "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf"
               },
-              "icon": "lucide-file",
-              "title": "20.10.26"
+              "icon": "lucide-file-text",
+              "title": "00 Organizational Aspects"
             }
           }
         ],
@@ -203,30 +201,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "5724d073c9261ed3",
+  "active": "97fe11dbb1e63b32",
   "lastOpenFiles": [
+    "sem 1/Resources/Machine Learning/19.10.26",
+    "sem 1/Self Study Notes/Machine Learning/Introduction.md",
+    "sem 1/Resources/Machine Learning",
+    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
+    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
+    "sem 1/Resources",
+    "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Exercises/Machine Learning/Exercise 1.md",
     "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
     "sem 1/Exercises/Machine Learning",
     "sem 1/Exercises/Foundations of Deep Learning",
     "sem 1/Exercises",
-    "sem 1/Self Study Notes/Machine Learning/Introduction.md",
     "sem 1/APIS Germin/21.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/Introduction",
     "Welcome.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning",
     "sem 1/Self Study Notes/Machine Learning",
     "sem 1/Self Study Notes/Self Study Notes.md",
-    "sem 1/Self Study Notes",
-    "sem 1/Foundations of Deep Learning/20.10.26.md",
-    "sem 1",
     "sem 1/Probability and Statistics/20.10.26.md",
     "sem 1/Machine Leaning/19.10.26.md",
     "sem 1/Automated Reasoning/19.10.26.md",
-    "sem 1/Probability and Statistics",
     "sem 1/Digital Health/19.10.26.md",
-    "sem 1/APIS Germin/19.10.26.md",
-    "sem 1/Foundations of Deep Learning"
+    "sem 1/APIS Germin/19.10.26.md"
   ]
 }
