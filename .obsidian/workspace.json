@@ -4,68 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "70afe44e70bb8541",
+        "id": "ecc1b83c72e4e1c7",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce1ec2d0aa3a933",
+            "id": "4f9cb8d6f79feb1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/9. Archetype.md",
+                "file": "sem 1/APIS Germin/21.10.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Archetype"
-            }
-          },
-          {
-            "id": "8846a4ddabdf5982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Linear Prediction Model"
-            }
-          },
-          {
-            "id": "19a62b0b59727e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/11. Prediction Polynomial Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Prediction Polynomial Regression"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "32efe4f88a75e3e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29873baae773036e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01 Intro"
+              "title": "21.10.26"
             }
           }
         ]
@@ -235,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "19a62b0b59727e55",
+  "active": "4f9cb8d6f79feb1d",
   "lastOpenFiles": [
     "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
     "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/11. Prediction Polynomial Regression.md",
