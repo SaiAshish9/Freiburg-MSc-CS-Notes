@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc1b83c72e4e1c7",
+        "id": "0889e47b98397210",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9cb8d6f79feb1d",
+            "id": "463092ec94d2a146",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem 1/APIS Germin/21.10.26.md",
-                "mode": "source",
-                "source": false
+                "file": "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf"
               },
-              "icon": "lucide-file",
-              "title": "21.10.26"
+              "icon": "lucide-file-text",
+              "title": "01 Intro"
             }
           }
         ]
@@ -188,11 +186,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f9cb8d6f79feb1d",
+  "active": "97fe11dbb1e63b32",
   "lastOpenFiles": [
-    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
-    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/11. Prediction Polynomial Regression.md",
+    "13. Neural Network Model",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/12. Decision Tree.md",
+    "sem 1/Self Study Notes/Machine Learning/13. Decision Tree as a step wise function.md",
     "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/11. Prediction Polynomial Regression.md",
+    "sem 1/APIS Germin/21.10.26.md",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
     "sem 1/Self Study Notes/Machine Learning/9. Archetype.md",
     "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
     "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
@@ -205,7 +207,6 @@
     "sem 1/Self Study Notes/Machine Learning/3. Contents.md",
     "sem 1/Self Study Notes/Machine Learning/2. Getting-Started.md",
     "sem 1/Self Study Notes/Machine Learning/1. Resources.md",
-    "sem 1/APIS Germin/21.10.26.md",
     "sem 1/Mock Exams",
     "sem 1/Resources/Machine Learning/19.10.26",
     "sem 1/Resources/Machine Learning",
