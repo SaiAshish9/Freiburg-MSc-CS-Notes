@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Digital Health/11. Incorporating experts' knowledge.md",
+                "file": "sem 1/Self Study Notes/Digital Health/17. Digital Therapeutics (DTx) & Health App Challenges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Incorporating experts' knowledge"
+              "title": "17. Digital Therapeutics (DTx) & Health App Challenges"
             }
           }
         ]
@@ -208,6 +208,12 @@
   },
   "active": "b402e97c41e9fb95",
   "lastOpenFiles": [
+    "sem 1/Self Study Notes/Digital Health/16. Digital Health App market.md",
+    "sem 1/Self Study Notes/Digital Health/15. Context Awareness Theory & realisation.md",
+    "sem 1/Self Study Notes/Digital Health/17. Digital Therapeutics (DTx) & Health App Challenges.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
+    "sem 1/Self Study Notes/Digital Health/14. Context aware system.md",
+    "sem 1/Self Study Notes/Digital Health/13. Context.md",
     "sem 1/Self Study Notes/Digital Health/12. Context Awareness.md",
     "sem 1/Self Study Notes/Digital Health/11. Incorporating experts' knowledge.md",
     "sem 1/Self Study Notes/Digital Health/10. Digital Health Applications.md",
@@ -219,7 +225,6 @@
     "sem 1/Self Study Notes/Digital Health/5. Patient-Centric Digital Health Architecture.md",
     "sem 1/Self Study Notes/Digital Health/4. Genome, Exposome and Phenome.md",
     "sem 1/Self Study Notes/Digital Health/3. Multi-Model Data Integration Pipeline.md",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Self Study Notes/Digital Health/2. Related Terms & Areas.md",
     "sem 1/Quiz/Digital Health/19.10.26.md",
     "sem 1/Quiz/Digital Health",
@@ -238,11 +243,6 @@
     "sem 1/APIS Germin/21.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
     "sem 1/Self Study Notes/Machine Learning/9. Archetype.md",
-    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/Introduction.md",
-    "sem 1/Self Study Notes/Machine Learning/8. Loss Function.md",
-    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/7. Prediction Model.md",
-    "sem 1/Self Study Notes/Machine Learning/6. Supervised Learning.md",
-    "sem 1/Self Study Notes/Machine Learning/5. Types.md"
+    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf"
   ]
 }
