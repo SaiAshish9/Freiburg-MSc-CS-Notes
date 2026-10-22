@@ -13,22 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Quiz/Digital Health/19.10.26.md",
+                "file": "sem 1/Self Study Notes/Digital Health/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19.10.26"
+              "title": "1. Introduction"
+            }
+          },
+          {
+            "id": "7bfb04ceef43828e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem 1/Self Study Notes/Digital Health/1. Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "1669bd83ee5e6261",
+        "id": "6e7370f64fd7e6c5",
         "type": "tabs",
         "children": [
           {
-            "id": "4ffb9fbe5a5b7197",
+            "id": "94dac089c8e0efd9",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -206,13 +221,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d14d3e1fd39b16d8",
+  "active": "7bfb04ceef43828e",
   "lastOpenFiles": [
+    "sem 1/Self Study Notes/Digital Health/2. Related Terms & Areas.md",
     "sem 1/Self Study Notes/Digital Health/1. Introduction.md",
     "sem 1/Quiz/Digital Health/19.10.26.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Quiz/Digital Health",
     "sem 1/Quiz",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Digital Health/19.10.26.md",
     "sem 1/Self Study Notes/Digital Health/1. Introduction",
     "sem 1/Resources/Digital Health/19.10.26",
@@ -242,7 +258,6 @@
     "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
     "Welcome.md",
     "sem 1/Self Study Notes/Self Study Notes.md",
-    "sem 1/Probability and Statistics/20.10.26.md",
-    "sem 1/Machine Leaning/19.10.26.md"
+    "sem 1/Probability and Statistics/20.10.26.md"
   ]
 }
