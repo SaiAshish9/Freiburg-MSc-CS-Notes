@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Digital Health/19. Context Abstraction.md",
+                "file": "sem 1/Quiz/Digital Health/19.10.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. Context Abstraction"
+              "title": "19.10.26"
             }
           }
         ]
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -208,8 +209,8 @@
   },
   "active": "706ab9d0bb953c1c",
   "lastOpenFiles": [
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Self Study Notes/Digital Health/19. Context Abstraction.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Self Study Notes/Digital Health/18. Context recognition examples.md",
     "sem 1/Self Study Notes/Digital Health/15. Context Awareness Theory & realisation.md",
     "sem 1/Self Study Notes/Digital Health/17. Digital Therapeutics (DTx) & Health App Challenges.md",
