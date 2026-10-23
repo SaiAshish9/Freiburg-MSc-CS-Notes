@@ -4,11 +4,10 @@
 3. Locally we can run using this file:
 4. Maximum 3 pushes to the main branch per assignment, more pushes will make us loose our grades
 
-Team:
-DeepSee
-saishish9
-Shreya111111
-TanishqN18
+Team: DeepSee
+1. saishish9
+2. Shreya111111
+3. TanishqN18
 
 Installation Guide  
 https://ilias.uni-freiburg.de/ilias.php?baseClass=ilrepositorygui&cmdNode=102:p8&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=4386054
