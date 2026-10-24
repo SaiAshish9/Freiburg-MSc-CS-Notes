@@ -1,4 +1,126 @@
 
+
+### [[MLP|MLPs (Multi-Layer Perceptrons)]]
+
+#concept #mlp #deep-learning
+
+- The foundational feedforward deep learning model that bridges traditional machine learning to deep networks.
+- Utilizes multiple stacked hidden layers with non-linear activation functions to learn complex representations from input data.
+
+### [[SGD|SGD (Stochastic Gradient Descent)]]
+
+#concept #sgd #optimization
+
+- A fundamental iterative optimization algorithm used to train neural networks on non-convex loss landscapes.
+- Computes gradients and updates weights using small, randomly sampled batches of data to speed up convergence and escape local minima.
+
+### [[CNN|CNNs (Convolutional Neural Networks)]]
+
+#concept #cnn #computer-vision
+
+- Specialized neural network architectures designed for grid-structured data like images.
+- Uses mathematical convolution operations and shared weight kernels to capture spatial hierarchies and translation invariance.
+
+### [[RNN|RNNs (Recurrent Neural Networks)]]
+
+#concept #rnn #sequence-modeling
+
+- Architectures designed to handle sequential and temporal data by maintaining hidden states across time steps.
+- Enables context persistence, with advanced variants like LSTMs and GRUs addressing the vanishing gradient problem.
+
+### [[Attention|Attention Mechanism]]
+
+#concept #attention #deep-learning
+
+- A mechanism that allows neural networks to dynamically focus on specific, relevant parts of input sequences.
+- Computes alignment scores across inputs, dramatically improving network performance on long-range dependencies.
+
+### [[Transformer|Transformer Architecture]]
+
+#concept #transformer #nlp
+
+- A deep learning architecture that relies entirely on self-attention mechanisms rather than recurrent or convolutional layers.
+- Serves as the backbone for modern state-of-the-art models in natural language processing and computer vision.
+
+### [[ViT|ViT (Vision Transformer)]]
+
+#concept #vit #computer-vision #transformer
+
+- An adaptation of the standard Transformer architecture applied directly to computer vision tasks.
+- Processes images by splitting them into a sequence of non-overlapping patches treated similarly to word tokens.
+
+### [[BERT|BERT]]
+
+#concept #bert #nlp #language-model
+
+- A large, pretrained bidirectional language model based on the Transformer encoder architecture.
+- Pretrained on vast text corpora using masked language modeling, making it fine-tunable for various downstream NLP tasks.
+
+### [[HPO|HPO (Hyperparameter Optimization)]]
+
+#concept #hpo #automl #tuning
+
+- The process of finding optimal configuration settings (e.g., learning rates, batch sizes, layer counts) for deep learning models.
+- Encompasses manual tuning, black-box optimization algorithms (like Bayesian Optimization), and multi-fidelity speedup techniques.
+
+### [[Autoencoder|Autoencoders]]
+
+#concept #autoencoder #generative
+
+- Unsupervised neural networks designed to compress input data into a lower-dimensional latent representation and reconstruct it.
+- Composed of an encoder and a decoder, serving as a baseline for feature learning and generative modeling.
+
+### [[VAE|VAEs (Variational Autoencoders)]]
+
+#concept #vae #generative #probabilistic
+
+- Generative models that extend standard autoencoders by mapping inputs to a continuous, probabilistic latent space.
+- Uses variational inference to enable sampling and generation of realistic new data points.
+
+### [[GAN|GANs (Generative Adversarial Networks)]]
+
+#concept #gan #generative #adversarial
+
+- Generative frameworks trained through a two-player game between a Generator and a Discriminator network.
+- The Generator learns to produce realistic data to fool the Discriminator, while the Discriminator learns to distinguish real data from generated data.
+
+### [[Diffusion Models|Diffusion Models]]
+
+#concept #diffusion #generative
+
+- State-of-the-art generative models that learn to synthesize data by reversing a gradual noise-addition process.
+- Generates high-quality samples by iteratively removing noise from random Gaussian input.
+
+### [[Bayesian Neural Networks|Bayesian Neural Networks]]
+
+#concept #bayesian #uncertainty
+
+- Probabilistic neural networks that place probability distributions over weights rather than fixed deterministic point estimates.
+- Provides principled estimates of model uncertainty (epistemic uncertainty) alongside predictions.
+
+### [[MCMC|MCMC (Markov Chain Monte Carlo)]]
+
+#concept #mcmc #bayesian #sampling
+
+- A class of sampling-based algorithms used for approximate Bayesian inference in deep learning.
+- Generates samples from complex posterior probability distributions to quantify model uncertainty when exact inference is intractable.
+
+### [[AutoML|AutoML]]
+
+#concept #automl #optimization
+
+- Automated Machine Learning techniques aimed at automating end-to-end machine learning pipelines.
+- Reduces manual effort by automating model selection, hyperparameter tuning, and neural architecture design.
+
+### [[NAS|NAS (Neural Architecture Search)]]
+
+#concept #nas #automl #architecture
+
+- An automated subfield of AutoML focused on automatically discovering optimal neural network architectures for specific tasks.    
+- Uses search strategies like reinforcement learning, evolutionary algorithms, or gradient-based methods to design efficient models.
+
+---
+
 ## [[Week 2: From Logistic Regression to MLPs]]
 #week2 #deep-learning #MLP #logistic-regression #loss-functions
 
