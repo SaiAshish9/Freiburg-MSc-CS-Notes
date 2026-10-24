@@ -6,7 +6,7 @@
       {
         "id": "f152c67bb7a1d87f",
         "type": "tabs",
-        "dimension": 42.153047989623865,
+        "dimension": 59.30656934306569,
         "children": [
           {
             "id": "b768937cadcf712f",
@@ -41,18 +41,20 @@
       {
         "id": "bda300d7d6ad58b0",
         "type": "tabs",
-        "dimension": 57.84695201037614,
+        "dimension": 40.69343065693431,
         "children": [
           {
-            "id": "d876b16ac1bf24c3",
+            "id": "a97548ae019757a0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf"
+                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/week1/1.1 Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DL_Week01_An_Overview_of_Deep_Learning"
+              "icon": "lucide-file",
+              "title": "1.1 Questions"
             }
           }
         ]
@@ -117,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -223,8 +224,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b768937cadcf712f",
+  "active": "a97548ae019757a0",
   "lastOpenFiles": [
+    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
     "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/16. History.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
@@ -242,7 +244,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/5. Representation Learning Pipeline.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/4. Standard Machine Learning Pipeline.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/3. Representation Learning and Deep Learning.md",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
     "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Exercises/Digital Health/Pasted image 20261022205024.png",
     "sem 1/Exercises/Foundations of Deep Learning/Class Notes 23.10.26.md",
