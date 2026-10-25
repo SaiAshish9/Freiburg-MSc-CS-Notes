@@ -11,12 +11,14 @@
             "id": "6f8ac4bf153f3417",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf"
+                "file": "sem 1/Mock Exams/Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DH_Mockexam"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -188,12 +190,13 @@
   },
   "active": "6f8ac4bf153f3417",
   "lastOpenFiles": [
+    "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf",
+    "sem 1/Mock Exams/Notes.md",
     "sem 1/Mock Exams/Digital Health/DH_Mockexam solutions.pdf",
     "sem 1/Mock Exams/Digital Health/Exam procedure.jpeg",
     "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
     "sem 1/Mock Exams/Digital Health/Exam questions V2.pdf",
     "sem 1/Mock Exams/Digital Health/Exam questions V1.pdf",
-    "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf",
     "sem 1/Mock Exams/Machine Learning/SS2021_retake_ML_Exam.pdf",
     "sem 1/Mock Exams/Machine Learning/SS2022_retake_ML_Exam.pdf",
     "sem 1/Mock Exams/Machine Learning/WS2021-2022_ML_Exam.pdf",
@@ -231,7 +234,6 @@
     "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
     "sem 1/Self Study Notes/Machine Learning/9. Archetype.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/Weekly Plan 2-12.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
-    "file:/home/sai-ashish/Downloads/obsidian_notes.md"
+    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md"
   ]
 }
