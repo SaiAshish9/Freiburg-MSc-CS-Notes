@@ -11,14 +11,12 @@
             "id": "6f8ac4bf153f3417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
-                "mode": "source",
-                "source": false
+                "file": "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf"
               },
-              "icon": "lucide-file",
-              "title": "23. ML Design Cycle Stages"
+              "icon": "lucide-file-text",
+              "title": "DH_Mockexam"
             }
           }
         ]
@@ -188,17 +186,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "97fe11dbb1e63b32",
+  "active": "6f8ac4bf153f3417",
   "lastOpenFiles": [
+    "sem 1/Mock Exams/Digital Health/DH_Mockexam solutions.pdf",
+    "sem 1/Mock Exams/Digital Health/Exam procedure.jpeg",
+    "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
+    "sem 1/Mock Exams/Digital Health/Exam questions V2.pdf",
+    "sem 1/Mock Exams/Digital Health/Exam questions V1.pdf",
+    "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf",
+    "sem 1/Mock Exams/Machine Learning/SS2021_retake_ML_Exam.pdf",
+    "sem 1/Mock Exams/Machine Learning/SS2022_retake_ML_Exam.pdf",
+    "sem 1/Mock Exams/Machine Learning/WS2021-2022_ML_Exam.pdf",
+    "sem 1/Mock Exams/Machine Learning",
+    "sem 1/Mock Exams/Digital Health",
     "sem 1/Mock Exams/Foundations Of Deep Learning/Fachschaft/Mock_Exam_OCR.pdf",
-    "sem 1/Mock Exams/Foundations Of Deep Learning/Fachschaft",
-    "sem 1/Mock Exams/Foundations Of Deep Learning",
     "Pasted image 20261025175140.png",
     "Pasted image 20261025175126.png",
     "Pasted image 20261025175114.png",
     "Pasted image 20261025175101.png",
-    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
-    "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
     "sem 1/Self Study Notes/Machine Learning/22. Naive Bayes - Bayes Rulea.md",
     "sem 1/Self Study Notes/Machine Learning/23. Naive Bayes - Multiple conditional variables.md",
     "Pasted image 20261025172853.png",
@@ -208,7 +213,6 @@
     "sem 1/Self Study Notes/Machine Learning/21. Predictions K Nearest Neighbors.md",
     "sem 1/Self Study Notes/Machine Learning/20. Model K Nearest Neighbors.md",
     "Pasted image 20261025171130.png",
-    "Pasted image 20261025170925.png",
     "file:/home/sai-ashish/Downloads/ML_Introduction_Pages_19_to_68_Obsidian.md",
     "sem 1/Self Study Notes/Machine Learning/19. Simple non-parametric models.md",
     "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md",
@@ -227,14 +231,7 @@
     "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
     "sem 1/Self Study Notes/Machine Learning/9. Archetype.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/Weekly Plan 2-12.md",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
-    "file:/home/sai-ashish/Downloads/obsidian_notes.md",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1",
-    "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26",
-    "sem 1/Resources/Foundations Of Deep Learning"
+    "file:/home/sai-ashish/Downloads/obsidian_notes.md"
   ]
 }
