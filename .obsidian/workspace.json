@@ -4,39 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "bda300d7d6ad58b0",
+        "id": "1a8de54df619ea20",
         "type": "tabs",
         "children": [
           {
-            "id": "5f39d563371b8ec2",
+            "id": "15a9f5926e588103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/Weekly Plan 2-12.md",
+                "file": "file:/home/sai-ashish/Downloads/ML_Introduction_Pages_19_to_68_Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Plan 2-12"
+              "title": "ML_Introduction_Pages_19_to_68_Obsidian"
+            }
+          },
+          {
+            "id": "293fa9353f214c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Maximum Likelihood Estimation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "52ec9737c8348b37",
+        "id": "e484efddafcddb85",
         "type": "tabs",
         "children": [
           {
-            "id": "03da2e2ea3da7387",
+            "id": "654fc4f6590171b3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf"
+                "file": "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "dl2026_kickoff_lecture_slides"
+              "title": "01 Intro"
             }
           }
         ]
@@ -101,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -207,10 +221,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f39d563371b8ec2",
+  "active": "654fc4f6590171b3",
   "lastOpenFiles": [
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
+    "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md",
+    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
+    "Screenshot from 2026-10-25 16-39-19.png",
+    "Screenshot from 2026-10-25 16-38-58.png",
+    "sem 1/Self Study Notes/Machine Learning/17. Probabilistic Interpretation Generative Model.md",
+    "sem 1/Self Study Notes/Machine Learning/198.==.md",
+    "file:/home/sai-ashish/Downloads/ML_Introduction_Pages_19_to_68_Obsidian.md",
+    "Screenshot from 2026-10-25 16-19-12.png",
+    "sem 1/Self Study Notes/Machine Learning/16. Overfitting, Underfitting & Regularization.md",
+    "sem 1/Self Study Notes/Machine Learning/1.2 Summary Chapter 1.md",
+    "sem 1/Self Study Notes/Machine Learning/1.1 Questions.md",
+    "Screenshot from 2026-10-25 16-13-59.png",
+    "Screenshot from 2026-10-25 16-07-45.png",
+    "sem 1/Self Study Notes/Machine Learning/15. Multi-class loss soft max.md",
+    "Screenshot from 2026-10-25 16-06-14.png",
+    "sem 1/Self Study Notes/Machine Learning/14. Loss functions.md",
+    "sem 1/Self Study Notes/Machine Learning/13. Neural Network Model.md",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/12. Decision Tree.md",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/13. Decision Tree as a step wise function.md",
+    "file:/home/sai-ashish/Downloads/decision_trees_note.md",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/11. Prediction Polynomial Regression.md",
+    "sem 1/Self Study Notes/Machine Learning/7. Prediction Models/10. Linear Prediction Model.md",
+    "sem 1/Self Study Notes/Machine Learning/9. Archetype.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/Weekly Plan 2-12.md",
+    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
     "file:/home/sai-ashish/Downloads/obsidian_notes.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/16. History.md",
@@ -220,30 +257,13 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/14. Computations in a Single Neuron.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/13. Basics of Neural Networks.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/12. Python.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/11. Linear Algebra.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/10. Statistical Learning Theory.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/9. Overfitting, Training, Validation, Test, CrossValidation.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/8. Standard ML Concepts We Build On.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/6. Shallow vs Deep Learning.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/7. Relation To Traditional Learning Approaches.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/5. Representation Learning Pipeline.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/4. Standard Machine Learning Pipeline.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/3. Representation Learning and Deep Learning.md",
-    "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Exercises/Digital Health/Pasted image 20261022205024.png",
-    "sem 1/Exercises/Foundations of Deep Learning/Class Notes 23.10.26.md",
-    "sem 1/Exercises/Digital Health/Class Notes.md",
-    "sem 1/Probability and Statistics/20.10.26.md",
     "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
-    "sem 1/Digital Health/19.10.26.md",
-    "sem 1/Self Study Notes/Digital Health/1. Introduction.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1",
     "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf",
     "sem 1/Resources/Foundations Of Deep Learning/20.10.26",
     "sem 1/Resources/Foundations Of Deep Learning",
     "sem 1/Exercises/Resources/Digital Health",
-    "sem 1/Exercises/Resources",
-    "sem 1/Exercises/Digital Health"
+    "sem 1/Exercises/Resources"
   ]
 }
