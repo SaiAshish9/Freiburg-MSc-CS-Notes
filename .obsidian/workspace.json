@@ -12,14 +12,24 @@
             "id": "74d6fb390346d65d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem 1/Exercises/Foundations of Deep Learning/Class Notes 23.10.26.md",
-                "mode": "source",
-                "source": false
+                "file": "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Class Notes 23.10.26"
+              "icon": "lucide-file-text",
+              "title": "DH_L01_DigitalHealthOverview"
+            }
+          },
+          {
+            "id": "a4d634d55edc9556",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "00 Organizational Aspects"
             }
           }
         ]
@@ -191,15 +201,19 @@
   },
   "active": "74d6fb390346d65d",
   "lastOpenFiles": [
-    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
-    "sem 1/Exercises/Foundations of Deep Learning/Class Notes 23.10.26.md",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
-    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1 Deadline 4th Noveber.md",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
-    "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
     "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
+    "sem 1/Digital Health/19.10.26.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
+    "sem 1/Machine Leaning/19.10.26.md",
+    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1 Deadline 4th Noveber.md",
+    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
+    "sem 1/Exercises/Foundations of Deep Learning/Class Notes 23.10.26.md",
+    "sem 1/Self Study Notes/Machine Learning/1. Resources.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/1. Introduction.md",
+    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
+    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
+    "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/4. Standard Machine Learning Pipeline.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/3. Representation Learning and Deep Learning.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
@@ -231,10 +245,6 @@
     "sem 1/Self Study Notes/Machine Learning/17. Probabilistic Interpretation Generative Model.md",
     "sem 1/Self Study Notes/Machine Learning/198.==.md",
     "sem 1/Self Study Notes/Machine Learning/16. Overfitting, Underfitting & Regularization.md",
-    "sem 1/Self Study Notes/Machine Learning/1.2 Summary Chapter 1.md",
-    "sem 1/Self Study Notes/Machine Learning/1.1 Questions.md",
-    "sem 1/Self Study Notes/Machine Learning/15. Multi-class loss soft max.md",
-    "sem 1/Self Study Notes/Machine Learning/14. Loss functions.md",
-    "sem 1/Self Study Notes/Machine Learning/13. Neural Network Model.md"
+    "sem 1/Self Study Notes/Machine Learning/1.2 Summary Chapter 1.md"
   ]
 }
