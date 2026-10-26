@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "910124cfac1acb6f",
+        "id": "12f322e7fb635eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d634d55edc9556",
+            "id": "91e4f9c43d0c884a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Machine Leaning/26.10.26.md",
+                "file": "sem 1/Digital Health/26.10.26.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,19 +24,19 @@
         ]
       },
       {
-        "id": "462a37acb95366c0",
+        "id": "f46fc87c7b74f1e5",
         "type": "tabs",
         "children": [
           {
-            "id": "80bb3cc9293285e9",
+            "id": "93187ef138641368",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
+                "file": "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "02 Linear Methods"
+              "title": "DH_L01_DigitalHealthOverview"
             }
           }
         ]
@@ -207,10 +207,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4d634d55edc9556",
+  "active": "93187ef138641368",
   "lastOpenFiles": [
-    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
+    "sem 1/Digital Health/26.10.26.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L02_Medical-Mobile-and-Ambient-Data_Cypko_2026_v2.pdf",
     "sem 1/Machine Leaning/26.10.26.md",
+    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
     "Pasted image 20261026152811.png",
     "Pasted image 20261026152622.png",
     "Pasted image 20261026152537.png",
@@ -243,7 +245,6 @@
     "sem 1/Mock Exams/Digital Health/DH_Mockexam solutions.pdf",
     "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
     "sem 1/Mock Exams/Digital Health/Exam questions V2.pdf",
-    "sem 1/Mock Exams/Digital Health/Exam questions V1.pdf",
     "sem 1/Self Study Notes/Machine Learning/22. Naive Bayes - Bayes Rulea.md",
     "sem 1/Self Study Notes/Machine Learning/23. Naive Bayes - Multiple conditional variables.md",
     "sem 1/Self Study Notes/Machine Learning/21. Predictions K Nearest Neighbors.md",
@@ -252,7 +253,6 @@
     "sem 1/Self Study Notes/Machine Learning/19. Simple non-parametric models.md",
     "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md",
     "sem 1/Self Study Notes/Machine Learning/17. Probabilistic Interpretation Generative Model.md",
-    "sem 1/Self Study Notes/Machine Learning/198.==.md",
-    "sem 1/Self Study Notes/Machine Learning/16. Overfitting, Underfitting & Regularization.md"
+    "sem 1/Self Study Notes/Machine Learning/198.==.md"
   ]
 }
