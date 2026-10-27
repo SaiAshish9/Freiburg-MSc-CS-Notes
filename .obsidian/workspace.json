@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/APIS Germin/26.10.26.md",
+                "file": "sem 1/Self Study Notes/Probability and Statistics/20.10.26/5. Set Identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.10.26"
+              "title": "5. Set Identities"
             }
           },
           {
@@ -27,14 +27,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem 1/Resources/Probability And Statistics/01_Introduction.pdf"
+                "file": "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01_Introduction"
+              "title": "00 Organizational Aspects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,20 +200,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "4560d0e399a08ebe",
+  "active": "91e4f9c43d0c884a",
   "lastOpenFiles": [
-    "sem 1/Resources/Probability And Statistics/02_IntuitionEventsProbability.pdf",
+    "Pasted image 20261027151342.png",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/4. Terminology.md",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/5. Set Identities.md",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/3. Stochastic.md",
     "sem 1/Resources/Probability And Statistics/01_Introduction.pdf",
-    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
-    "sem 1/Resources/Probability And Statistics",
-    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
-    "sem 1/APIS Germin/26.10.26.md",
+    "Pasted image 20261027150326.png",
+    "Pasted image 20261027144959.png",
+    "Pasted image 20261027144848.png",
     "sem 1/Digital Health/26.10.26.md",
+    "sem 1/Digital Health/19.10.26.md",
+    "sem 1/APIS Germin/26.10.26.md",
+    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
+    "sem 1/Exercises/Machine Learning/Exercise 1.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
+    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1 Deadline 4th Noveber.md",
+    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
+    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
+    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/2. History.md",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/1. Intuition.md",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26",
+    "sem 1/Self Study Notes/Probability and Statistics",
+    "sem 1/Resources/Probability And Statistics/02_IntuitionEventsProbability.pdf",
+    "sem 1/Resources/Probability And Statistics",
     "sem 1/Resources/Digital Health/19.10.26/DH_L02_Medical-Mobile-and-Ambient-Data_Cypko_2026_v2.pdf",
     "sem 1/Exercises/Digital Health/Class Notes.md",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Machine Leaning/26.10.26.md",
-    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
     "Pasted image 20261026152811.png",
     "Pasted image 20261026152622.png",
     "Pasted image 20261026152537.png",
@@ -222,32 +236,17 @@
     "Pasted image 20261026151449.png",
     "Pasted image 20261026151416.png",
     "Pasted image 20261026151402.png",
-    "Pasted image 20261026150828.png",
-    "Pasted image 20261026145115.png",
-    "sem 1/Machine Leaning/Screenshot from 2026-10-26 14-46-23.png",
-    "sem 1/Digital Health/19.10.26.md",
     "sem 1/Machine Leaning/19.10.26.md",
-    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1 Deadline 4th Noveber.md",
-    "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
     "sem 1/Exercises/Foundations of Deep Learning/Class Notes 23.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/1. Resources.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/1. Introduction.md",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/dl2026_kickoff_lecture_slides.pdf",
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
     "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/4. Standard Machine Learning Pipeline.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/3. Representation Learning and Deep Learning.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/1.1 Questions.md",
     "sem 1/Mock Exams/Creds.md",
-    "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf",
     "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
-    "sem 1/Self Study Notes/Machine Learning/22. Naive Bayes - Bayes Rulea.md",
-    "sem 1/Self Study Notes/Machine Learning/23. Naive Bayes - Multiple conditional variables.md",
-    "sem 1/Self Study Notes/Machine Learning/21. Predictions K Nearest Neighbors.md",
-    "sem 1/Self Study Notes/Machine Learning/20. Model K Nearest Neighbors.md",
-    "file:/home/sai-ashish/Downloads/ML_Introduction_Pages_19_to_68_Obsidian.md",
-    "sem 1/Self Study Notes/Machine Learning/19. Simple non-parametric models.md",
-    "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md"
+    "sem 1/Self Study Notes/Machine Learning/22. Naive Bayes - Bayes Rulea.md"
   ]
 }
