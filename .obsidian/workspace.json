@@ -13,33 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Digital Health/26.10.26.md",
+                "file": "sem 1/APIS Germin/26.10.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "26.10.26"
             }
-          }
-        ]
-      },
-      {
-        "id": "f46fc87c7b74f1e5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "93187ef138641368",
+            "id": "4560d0e399a08ebe",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf"
+                "file": "sem 1/Resources/Probability And Statistics/01_Introduction.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DH_L01_DigitalHealthOverview"
+              "title": "01_Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -207,10 +201,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "93187ef138641368",
+  "active": "4560d0e399a08ebe",
   "lastOpenFiles": [
+    "sem 1/Resources/Probability And Statistics/02_IntuitionEventsProbability.pdf",
+    "sem 1/Resources/Probability And Statistics/01_Introduction.pdf",
+    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
+    "sem 1/Resources/Probability And Statistics",
+    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
+    "sem 1/APIS Germin/26.10.26.md",
     "sem 1/Digital Health/26.10.26.md",
     "sem 1/Resources/Digital Health/19.10.26/DH_L02_Medical-Mobile-and-Ambient-Data_Cypko_2026_v2.pdf",
+    "sem 1/Exercises/Digital Health/Class Notes.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Machine Leaning/26.10.26.md",
     "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
     "Pasted image 20261026152811.png",
@@ -223,9 +225,6 @@
     "Pasted image 20261026150828.png",
     "Pasted image 20261026145115.png",
     "sem 1/Machine Leaning/Screenshot from 2026-10-26 14-46-23.png",
-    "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
-    "sem 1/Resources/Machine Learning/19.10.26/01 Intro.pdf",
     "sem 1/Digital Health/19.10.26.md",
     "sem 1/Machine Leaning/19.10.26.md",
     "sem 1/Exercises/Foundations of Deep Learning/Exercise 1 Deadline 4th Noveber.md",
@@ -242,17 +241,13 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/1.1 Questions.md",
     "sem 1/Mock Exams/Creds.md",
     "sem 1/Mock Exams/Digital Health/DH_Mockexam.pdf",
-    "sem 1/Mock Exams/Digital Health/DH_Mockexam solutions.pdf",
     "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md",
-    "sem 1/Mock Exams/Digital Health/Exam questions V2.pdf",
     "sem 1/Self Study Notes/Machine Learning/22. Naive Bayes - Bayes Rulea.md",
     "sem 1/Self Study Notes/Machine Learning/23. Naive Bayes - Multiple conditional variables.md",
     "sem 1/Self Study Notes/Machine Learning/21. Predictions K Nearest Neighbors.md",
     "sem 1/Self Study Notes/Machine Learning/20. Model K Nearest Neighbors.md",
     "file:/home/sai-ashish/Downloads/ML_Introduction_Pages_19_to_68_Obsidian.md",
     "sem 1/Self Study Notes/Machine Learning/19. Simple non-parametric models.md",
-    "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md",
-    "sem 1/Self Study Notes/Machine Learning/17. Probabilistic Interpretation Generative Model.md",
-    "sem 1/Self Study Notes/Machine Learning/198.==.md"
+    "sem 1/Self Study Notes/Machine Learning/18. Maximum Likelihood Estimation.md"
   ]
 }
