@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "1a370eaabcd56739",
+        "id": "f79c99e4999274dc",
         "type": "tabs",
+        "dimension": 43.33821376281113,
         "children": [
           {
-            "id": "3eef4011e8e79863",
+            "id": "663f8f2144d59f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/week 2/1. Introduction.md",
+                "file": "sem 1/Probability and Statistics/27.10.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "27.10.26"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f4434ffc8fde9e64",
+        "type": "tabs",
+        "dimension": 56.66178623718887,
+        "children": [
+          {
+            "id": "c150747fbbdf499f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem 1/Exercises/Resources/ProbabilityAndStatistics/02_IntuitionEventsProbability.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02_IntuitionEventsProbability"
             }
           }
         ]
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -188,16 +209,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "3eef4011e8e79863",
+  "active": "663f8f2144d59f7e",
   "lastOpenFiles": [
-    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
+    "sem 1/Exercises/Resources/ProbabilityAndStatistics/02_IntuitionEventsProbability.pdf",
+    "sem 1/Probability and Statistics/27.10.26.md",
+    "sem 1/Exercises/Resources/ProbabilityAndStatistics",
+    "sem 1/Probability and Statistics/20.10.26.md",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/5. Set Identities.md",
+    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/3. Stochastic.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week 2/1. Introduction.md",
+    "sem 1/Resources/Foundations Of Deep Learning/20.10.26/DL_Week01_An_Overview_of_Deep_Learning.pdf",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week 2",
     "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
-    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/5. Set Identities.md",
     "Pasted image 20261027151342.png",
     "sem 1/Self Study Notes/Probability and Statistics/20.10.26/4. Terminology.md",
-    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/3. Stochastic.md",
     "sem 1/Resources/Probability And Statistics/01_Introduction.pdf",
     "Pasted image 20261027150326.png",
     "Pasted image 20261027144959.png",
@@ -214,9 +239,6 @@
     "sem 1/Self Study Notes/Probability and Statistics/20.10.26/2. History.md",
     "sem 1/Self Study Notes/Probability and Statistics/20.10.26/1. Intuition.md",
     "sem 1/Self Study Notes/Probability and Statistics/20.10.26",
-    "sem 1/Self Study Notes/Probability and Statistics",
-    "sem 1/Resources/Probability And Statistics/02_IntuitionEventsProbability.pdf",
-    "sem 1/Resources/Probability And Statistics",
     "sem 1/Exercises/Digital Health/Class Notes.md",
     "sem 1/Machine Leaning/26.10.26.md",
     "Pasted image 20261026152811.png",
@@ -233,8 +255,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/4. Standard Machine Learning Pipeline.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/3. Representation Learning and Deep Learning.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week1/2. Motivation for Deep learning.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/1.1 Questions.md",
-    "sem 1/Mock Exams/Creds.md",
-    "sem 1/Self Study Notes/Machine Learning/23. ML Design Cycle Stages.md"
+    "sem 1/Self Study Notes/Foundations of Deep Learning/week1/1.1 Questions.md"
   ]
 }
