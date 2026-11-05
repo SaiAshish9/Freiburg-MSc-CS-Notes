@@ -54,3 +54,21 @@ Lab
   
 1, 1.3, 1.7
 
+Assignment
+
+conda create -n dl python=3.11 -y
+python install -r requirements.txt
+conda info --envs
+pip install -r requirements.txt
+
+
+---
+
+
+
+
+---
+
+
+
+
