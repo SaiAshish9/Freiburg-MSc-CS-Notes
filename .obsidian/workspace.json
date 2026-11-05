@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/1. Introduction.md",
+                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/3. Cross Entropy, KL Divergence and Maximum Likelihood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "3. Cross Entropy, KL Divergence and Maximum Likelihood"
             }
           }
         ]
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -208,28 +209,29 @@
   },
   "active": "effce7d7cc8a3597",
   "lastOpenFiles": [
+    "Pasted image 20261105180233.png",
+    "Pasted image 20261105175630.png",
+    "Pasted image 20261105174443.png",
+    "Pasted image 20261105174327.png",
+    "Pasted image 20261105174204.png",
+    "Pasted image 20261105173725.png",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/1. Introduction.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/3. Cross Entropy, KL Divergence and Maximum Likelihood.md",
     "a.webp",
     "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/3. Cross Entropy Loss.md",
     "Pasted image 20261105162635.png",
     "Pasted image 20261105160805.png",
     "Pasted image 20261105152810.png",
     "Pasted image 20261105152702.png",
-    "Pasted image 20261105150731.png",
-    "Pasted image 20261105145941.png",
     "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/2. Logistic Regression.md",
     "sem 1/Foundations of Deep Learning/03.11.26.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/week 2/1. Introduction.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/MLPs",
     "sem 1/Resources/Foundations Of Deep Learning/03.11.26/DL_Week02_MLPs.pdf",
     "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "Chapter 1.md",
     "file:/home/sai-ashish/Documents/test/hpp/README.md",
-    "Pasted image 20261104015148.png",
-    "Pasted image 20261104015133.png",
-    "Pasted image 20261104015119.png",
-    "Pasted image 20261104015059.png",
     "sem 1/Self Study Notes/German A2",
     "sem 1/Resources/Probability And Statistics/01_Introduction.pdf",
     "sem 1/Resources/Machine Learning/19.10.26/00 Organizational Aspects.pdf",
@@ -252,7 +254,6 @@
     "sem 1/Exercises/Foundations of Deep Learning/Exercise 1.md",
     "sem 1/Foundations of Deep Learning/27.10.26.md",
     "sem 1/Probability and Statistics/27.10.26.md",
-    "sem 1/Probability and Statistics/20.10.26.md",
-    "sem 1/Self Study Notes/Probability and Statistics/20.10.26/5. Set Identities.md"
+    "sem 1/Probability and Statistics/20.10.26.md"
   ]
 }
