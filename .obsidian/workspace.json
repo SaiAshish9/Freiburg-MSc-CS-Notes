@@ -13,33 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Summary.md",
+                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/4. Backprop for a Linear Layer in Matrix Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Summary"
+              "title": "4. Backprop for a Linear Layer in Matrix Form"
             }
-          }
-        ]
-      },
-      {
-        "id": "30cf899ede951fef",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9ec0e1031c849997",
+            "id": "efd3b3dac6b1b9b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf"
+                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/6. Summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DL_Week03_MLPs_and_Backpropagation"
+              "icon": "lucide-file",
+              "title": "6. Summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,25 +203,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf4d966e0ca457a8",
+  "active": "efd3b3dac6b1b9b5",
   "lastOpenFiles": [
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Full Matrix Form Of Backpropagation Equations.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/4. Backprop for a Linear Layer in Matrix Form.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/3. Calculating Gradients With Backpropagation.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/2. Chain Rule.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/1. Introduction.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/6. Summary.md",
+    "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf",
     "Pasted image 20261106193819.png",
     "Pasted image 20261106193756.png",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/4. Full Matrix Form Of Backpropagation Equations.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Summary.md",
     "Pasted image 20261106193728.png",
     "Pasted image 20261106193721.png",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/3. Calculating Gradients With Backpropagation.md",
     "Pasted image 20261106193627.png",
     "Pasted image 20261106193613.png",
     "Pasted image 20261106193601.png",
     "Pasted image 20261106193559.png",
     "Pasted image 20261106193535.png",
     "Pasted image 20261106193519.png",
-    "Pasted image 20261106193234.png",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/2. Chain Rule.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/1. Introduction.md",
-    "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. MultiLayer Perceptron.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. From Logistic Regression to the Perceptron.md",
