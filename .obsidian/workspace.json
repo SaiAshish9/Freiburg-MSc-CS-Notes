@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/4. Backprop for a Linear Layer in Matrix Form.md",
+                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Full Matrix Form Of Backpropagation Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Backprop for a Linear Layer in Matrix Form"
+              "title": "5. Full Matrix Form Of Backpropagation Equations"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/1. Introduction & MultiLayer Perceptrons.md",
+                "file": "sem 1/Self Study Notes/German A2/07.11.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction & MultiLayer Perceptrons"
+              "title": "07.11.26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +202,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "efd3b3dac6b1b9b5",
+  "active": "cf4d966e0ca457a8",
   "lastOpenFiles": [
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/6. Summary.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Full Matrix Form Of Backpropagation Equations.md",
@@ -211,6 +210,11 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/3. Calculating Gradients With Backpropagation.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/2. Chain Rule.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/1. Introduction & MultiLayer Perceptrons.md",
+    "sem 1/Exercises/Digital Health/Class Notes.md",
+    "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
+    "sem 1/Self Study Notes/Digital Health/1. Introduction.md",
+    "sem 1/Self Study Notes/German A2/07.11.26.md",
+    "sem 1/Self Study Notes/German A2/6th Nov 2026",
     "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf",
     "Pasted image 20261106193819.png",
     "Pasted image 20261106193756.png",
@@ -234,8 +238,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation",
     "sem 1/Foundations of Deep Learning/03.11.26.md",
     "sem 1/Exercises/Digital Health/Oct 29.md",
-    "sem 1/Exercises/Digital Health/Class Notes.md",
-    "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
     "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf",
     "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Resources/Digital Health/02.11.26/DH_L03_AI_Methods+Applications_Cypko_2026.pdf",
@@ -246,10 +248,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs",
     "Chapter 1.md",
     "file:/home/sai-ashish/Documents/test/hpp/README.md",
-    "sem 1/Self Study Notes/German A2",
-    "sem 1/Resources/Probability And Statistics/01_Introduction.pdf",
-    "sem 1/Machine Leaning/02.11.26.md",
-    "sem 1/APIS Germin/02.11.26.md",
-    "sem 1/APIS Germin/APIS.md"
+    "sem 1/Self Study Notes/German A2"
   ]
 }
