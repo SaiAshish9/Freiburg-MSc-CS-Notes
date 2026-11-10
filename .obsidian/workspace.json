@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 4/1. Introduction To SVMs.md",
+                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/1. Introduction To Linear Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction To SVMs"
+              "title": "1. Introduction To Linear Methods"
             }
           }
         ]
       },
       {
-        "id": "70bde7730226bc13",
+        "id": "c4dca2e2d394d349",
         "type": "tabs",
         "children": [
           {
-            "id": "2a34516f150832cc",
+            "id": "876e892ff7339a6d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf"
+                "file": "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 04-SVM"
+              "title": "02 Linear Methods"
             }
           }
         ]
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.23341751098633
+    "width": 343.8574905395508,
+    "collapsed": true
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -206,10 +207,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a34516f150832cc",
+  "active": "ffc08030afe99224",
   "lastOpenFiles": [
+    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/1. Introduction To Linear Methods.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 2",
+    "sem 1/APIS Germin/09.11.26.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4/1. Introduction To SVMs.md",
     "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf",
+    "Pasted image 20261109161154.png",
+    "Pasted image 20261109160958.png",
+    "sem 1/APIS Germin/02.11.26.md",
+    "sem 1/APIS Germin/26.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Full Matrix Form Of Backpropagation Equations.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/6. Summary.md",
@@ -231,8 +240,6 @@
     "Pasted image 20261106193613.png",
     "Pasted image 20261106193601.png",
     "Pasted image 20261106193559.png",
-    "Pasted image 20261106193535.png",
-    "Pasted image 20261106193519.png",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. MultiLayer Perceptron.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. From Logistic Regression to the Perceptron.md",
@@ -247,11 +254,6 @@
     "sem 1/Exercises/Digital Health/Oct 29.md",
     "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf",
     "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
-    "sem 1/Resources/Digital Health/02.11.26/DH_L03_AI_Methods+Applications_Cypko_2026.pdf",
-    "sem 1/Resources/Foundations Of Deep Learning/03.11.26/DL_Week02_MLPs.pdf",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/9. Summary.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/1. Introduction.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/week 2/1. Introduction.md",
-    "Chapter 1.md"
+    "sem 1/Resources/Digital Health/02.11.26/DH_L03_AI_Methods+Applications_Cypko_2026.pdf"
   ]
 }
