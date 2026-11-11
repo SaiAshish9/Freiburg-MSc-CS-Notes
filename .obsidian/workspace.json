@@ -31,12 +31,14 @@
             "id": "e2a6f6b9e0585716",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
+                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/4. Optimization of 𝒘.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "02 Linear Methods"
+              "icon": "lucide-file",
+              "title": "4. Optimization of 𝒘"
             }
           }
         ]
@@ -101,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.8574905395508,
-    "collapsed": true
+    "width": 343.8574905395508
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -207,11 +208,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "876e892ff7339a6d",
+  "active": "e2a6f6b9e0585716",
   "lastOpenFiles": [
-    "Pasted image 20261111212529.png",
     "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/4. Optimization of 𝒘.md",
     "sem 1/Self Study Notes/Machine Learning/Week 2/3. Linear Regression with Basis Functions 2.md",
+    "a.png",
+    "Pasted image 20261111212529.png",
     "Pasted image 20261111212448.png",
     "Pasted image 20261111212418.png",
     "Pasted image 20261111212347.png",
@@ -228,8 +231,6 @@
     "Pasted image 20261110170713.png",
     "Pasted image 20261110170711.png",
     "Pasted image 20261110170025.png",
-    "Pasted image 20261110165230.png",
-    "Pasted image 20261110165045.png",
     "sem 1/Self Study Notes/Machine Learning/Week 2",
     "sem 1/APIS Germin/09.11.26.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4/1. Introduction To SVMs.md",
@@ -252,7 +253,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/2. Logistic Regression.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/7. Other Activation And Loss Functions.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/8. Representational Power Of MLPs.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/6. Matrix Dimensions.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation",
     "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf"
   ]
