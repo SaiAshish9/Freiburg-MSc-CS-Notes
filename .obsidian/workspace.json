@@ -8,27 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffc08030afe99224",
+            "id": "876e892ff7339a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/1. Introduction To Linear Methods.md",
+                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/3. Linear Regression with Basis Functions 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction To Linear Methods"
+              "title": "3. Linear Regression with Basis Functions 2"
             }
           }
         ]
       },
       {
-        "id": "c4dca2e2d394d349",
+        "id": "0b0b36230db8fc39",
         "type": "tabs",
         "children": [
           {
-            "id": "876e892ff7339a6d",
+            "id": "e2a6f6b9e0585716",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -207,39 +207,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffc08030afe99224",
+  "active": "876e892ff7339a6d",
   "lastOpenFiles": [
+    "Pasted image 20261111212529.png",
     "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/3. Linear Regression with Basis Functions 2.md",
+    "Pasted image 20261111212448.png",
+    "Pasted image 20261111212418.png",
+    "Pasted image 20261111212347.png",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/2. Linear Regression.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Full Matrix Form Of Backpropagation Equations.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/4. Backprop for a Linear Layer in Matrix Form.md",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/3. Calculating Gradients With Backpropagation.md",
     "sem 1/Self Study Notes/Machine Learning/Week 2/1. Introduction To Linear Methods.md",
+    "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf",
+    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/1. Introduction & MultiLayer Perceptrons.md",
+    "sem 1/Resources/Foundations Of Deep Learning/03.11.26/DL_Week02_MLPs.pdf",
+    "Pasted image 20261110170751.png",
+    "Pasted image 20261110170731.png",
+    "Pasted image 20261110170713.png",
+    "Pasted image 20261110170711.png",
+    "Pasted image 20261110170025.png",
+    "Pasted image 20261110165230.png",
+    "Pasted image 20261110165045.png",
     "sem 1/Self Study Notes/Machine Learning/Week 2",
     "sem 1/APIS Germin/09.11.26.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4/1. Introduction To SVMs.md",
     "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf",
-    "Pasted image 20261109161154.png",
-    "Pasted image 20261109160958.png",
     "sem 1/APIS Germin/02.11.26.md",
     "sem 1/APIS Germin/26.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/5. Full Matrix Form Of Backpropagation Equations.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/6. Summary.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/4. Backprop for a Linear Layer in Matrix Form.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/3. Calculating Gradients With Backpropagation.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/2. Chain Rule.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation/1. Introduction & MultiLayer Perceptrons.md",
     "sem 1/Exercises/Digital Health/Class Notes.md",
     "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
     "sem 1/Self Study Notes/Digital Health/1. Introduction.md",
     "sem 1/Self Study Notes/German A2/07.11.26.md",
     "sem 1/Self Study Notes/German A2/6th Nov 2026",
-    "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf",
-    "Pasted image 20261106193819.png",
-    "Pasted image 20261106193756.png",
-    "Pasted image 20261106193728.png",
-    "Pasted image 20261106193721.png",
-    "Pasted image 20261106193627.png",
-    "Pasted image 20261106193613.png",
-    "Pasted image 20261106193601.png",
-    "Pasted image 20261106193559.png",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. MultiLayer Perceptron.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. From Logistic Regression to the Perceptron.md",
@@ -250,10 +254,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/8. Representational Power Of MLPs.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/6. Matrix Dimensions.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation",
-    "sem 1/Foundations of Deep Learning/03.11.26.md",
-    "sem 1/Exercises/Digital Health/Oct 29.md",
-    "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
-    "sem 1/Resources/Digital Health/02.11.26/DH_L03_AI_Methods+Applications_Cypko_2026.pdf"
+    "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf"
   ]
 }
