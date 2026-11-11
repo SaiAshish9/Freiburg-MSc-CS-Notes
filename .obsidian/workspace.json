@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/5. Classification & Logistic Regression.md",
+                "file": "sem 1/APIS Germin/11.11.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Classification & Logistic Regression"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ccdaad9ae1c6d87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6de63758b9324c4f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "02 Linear Methods"
+              "title": "11.11.26"
             }
           }
         ]
@@ -101,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.8574905395508
+    "width": 343.8574905395508,
+    "collapsed": true
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -208,8 +191,9 @@
   },
   "active": "e2a6f6b9e0585716",
   "lastOpenFiles": [
-    "sem 1/Self Study Notes/Machine Learning/Week 2/1. Introduction To Linear Methods.md",
     "sem 1/Self Study Notes/Machine Learning/Week 2/5. Classification & Logistic Regression.md",
+    "sem 1/APIS Germin/11.11.26.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/1. Introduction To Linear Methods.md",
     "sem 1/Self Study Notes/Machine Learning/Week 2/4. Optimization of 𝒘.md",
     "Pasted image 20261111222044.png",
     "Pasted image 20261111221619.png",
@@ -251,7 +235,6 @@
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/3. Cross Entropy Loss.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/2. Logistic Regression.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/7. Other Activation And Loss Functions.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/8. Representational Power Of MLPs.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation",
     "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf"
   ]
