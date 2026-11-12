@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/7. Loss Functions for Logistic Regression.md",
+                "file": "sem 1/Self Study Notes/Machine Learning/Week 2/8. Gradients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Loss Functions for Logistic Regression"
+              "title": "8. Gradients"
             }
           }
         ]
@@ -211,21 +211,21 @@
   },
   "active": "859b961341bbc5f9",
   "lastOpenFiles": [
+    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/8. Gradients.md",
+    "Pasted image 20261112153332.png",
+    "Pasted image 20261112153310.png",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/7. Loss Functions for Logistic Regression.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 2/9. Summary.md",
     "Pasted image 20261112151155.png",
     "Pasted image 20261112150957.png",
-    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/7. Loss Functions for Logistic Regression.md",
     "Pasted image 20261112145819.png",
     "Pasted image 20261112145810.png",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/10. Summary.md",
     "Pasted image 20261112145348.png",
     "Pasted image 20261112145020.png",
     "Pasted image 20261112145006.png",
     "Pasted image 20261112144718.png",
-    "Pasted image 20261112144656.png",
     "sem 1/Self Study Notes/Machine Learning/Week 2/6. Logistic Regression Model.md",
-    "Code_Generated_Image.png",
-    "Pasted image 20261112142404.png",
     "sem 1/Self Study Notes/Machine Learning/Week 2/5. Classification & Logistic Regression.md",
     "sem 1/Self Study Notes/Machine Learning/Week 2/4. Optimization of 𝒘.md",
     "sem 1/APIS Germin/11.11.26.md",
@@ -254,7 +254,6 @@
     "sem 1/Self Study Notes/German A2/6th Nov 2026",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/1. Introduction.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. MultiLayer Perceptron.md",
-    "sem 1/Self Study Notes/Foundations of Deep Learning/2.MLPs/5. From Logistic Regression to the Perceptron.md",
     "sem 1/Self Study Notes/Foundations of Deep Learning/3.BackPropagation",
     "sem 1/Exercises/Resources/Digital Health/261022_E1.pdf"
   ]
