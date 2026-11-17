@@ -4,36 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "68ed30b0916954a5",
+        "id": "9131467f24e38322",
         "type": "tabs",
         "children": [
           {
-            "id": "45596ac6f2e32a03",
+            "id": "52e8b4cdef70ddbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 3/1. Introduction.md",
+                "file": "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "5. Bias-Variance TradeOff"
             }
           }
         ]
       },
       {
-        "id": "47d98c569d531f9d",
+        "id": "a8ee5ac5c47d0084",
         "type": "tabs",
         "children": [
           {
-            "id": "c7034943a523d162",
+            "id": "ef8e54142611cc30",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem 1/Resources/Machine Learning/03 Principles of Regularization.pdf"
+                "file": "sem 1/Machine Leaning/03 Principles of Regularization.pdf"
               },
               "icon": "lucide-file-text",
               "title": "03 Principles of Regularization"
@@ -207,52 +207,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "45596ac6f2e32a03",
+  "active": "52e8b4cdef70ddbb",
   "lastOpenFiles": [
-    "sem 1/Resources/Machine Learning/03 Principles of Regularization.pdf",
+    "Pasted image 20261117151425.png",
+    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
+    "Pasted image 20261117151212.png",
+    "Pasted image 20261117151136.png",
+    "Pasted image 20261117151111.png",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/4. Expected Values.md",
+    "Pasted image 20261117150103.png",
+    "Pasted image 20261117150044.png",
+    "Pasted image 20261117150014.png",
+    "Pasted image 20261117150007.png",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/3. Bias-Variance Trade-Off.md",
+    "Pasted image 20261117142432.png",
+    "Pasted image 20261117142421.png",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/2. Generalization Performance.md",
+    "Pasted image 20261117141628.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/1. Introduction.md",
+    "sem 1/Exercises/Digital Health/Class Notes.md",
+    "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
+    "sem 1/Foundations of Deep Learning/20.10.26.md",
+    "sem 1/Foundations of Deep Learning/03.11.26.md",
+    "sem 1/APIS Germin/26.10.26.md",
+    "sem 1/APIS Germin/02.11.26.md",
+    "sem 1/APIS Germin/09.11.26.md",
+    "sem 1/APIS Germin/11.11.26.md",
+    "sem 1/APIS Germin/17.11.26.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
+    "sem 1/Self Study Notes/German A2/07.11.26.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
+    "sem 1/Digital Health/26.10.26.md",
+    "sem 1/Digital Health/19.10.26.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/3. Feature Space Partitioning.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/2. Step Functions as Prediction Models.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/1. Introduction.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/Unconfirmed 18913.crdownload",
+    "sem 1/Resources/Machine Learning/03 Principles of Regularization.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees",
+    "sem 1/Self Study Notes/Machine Learning/Week 4/1. Introduction To SVMs.md",
+    "sem 1/Exercises/Digital Health/Oct 29.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/5. Types.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/23. Naive Bayes - Multiple conditional variables.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/23. ML Design Cycle Stages.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/22. Naive Bayes - Bayes Rulea.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/21. Predictions K Nearest Neighbors.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/20. Model K Nearest Neighbors.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/19. Simple non-parametric models.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/18. Maximum Likelihood Estimation.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/17. Probabilistic Interpretation Generative Model.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/16. Overfitting, Underfitting & Regularization.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/15. Multi-class loss soft max.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/14. Loss functions.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/13. Neural Network Model.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/9. Archetype.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/8. Loss Function.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/6. Supervised Learning.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/4. Introduction.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/3. Contents.md",
-    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
     "sem 1/Self Study Notes/Machine Learning/Week 1",
     "sem 1/Self Study Notes/Machine Learning/Week 3",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/8. Gradients.md",
-    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf",
-    "Pasted image 20261112153332.png",
-    "Pasted image 20261112153310.png",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/7. Loss Functions for Logistic Regression.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/9. Summary.md",
-    "Pasted image 20261112151155.png",
-    "Pasted image 20261112150957.png",
-    "Pasted image 20261112145819.png",
-    "Pasted image 20261112145810.png",
-    "Pasted image 20261112145348.png",
-    "Pasted image 20261112145020.png",
-    "Pasted image 20261112145006.png",
-    "Pasted image 20261112144718.png",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/6. Logistic Regression Model.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/5. Classification & Logistic Regression.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 2/4. Optimization of 𝒘.md",
-    "sem 1/Resources/Foundations Of Deep Learning/DL_Week03_MLPs_and_Backpropagation.pdf",
-    "sem 1/Resources/Foundations Of Deep Learning/03.11.26/DL_Week02_MLPs.pdf",
-    "sem 1/Self Study Notes/Machine Learning/Week 2",
-    "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf",
-    "sem 1/Self Study Notes/Machine Learning/Week 4"
+    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
   ]
 }
