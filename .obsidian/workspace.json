@@ -6,7 +6,6 @@
       {
         "id": "9131467f24e38322",
         "type": "tabs",
-        "dimension": 39.007782101167315,
         "children": [
           {
             "id": "52e8b4cdef70ddbb",
@@ -21,27 +20,23 @@
               "icon": "lucide-file",
               "title": "5. Bias-Variance TradeOff"
             }
-          }
-        ]
-      },
-      {
-        "id": "a8ee5ac5c47d0084",
-        "type": "tabs",
-        "dimension": 60.99221789883269,
-        "children": [
+          },
           {
             "id": "ef8e54142611cc30",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem 1/Machine Leaning/03 Principles of Regularization.pdf"
+                "file": "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "03 Principles of Regularization"
+              "icon": "lucide-file",
+              "title": "6. Regularization"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#machine-learning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,15 +204,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "52e8b4cdef70ddbb",
+  "active": "ef8e54142611cc30",
   "lastOpenFiles": [
-    "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
+    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
     "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
     "Pasted image 20261117152113.png",
     "Pasted image 20261117152046.png",
     "Pasted image 20261117151940.png",
     "Pasted image 20261117151936.png",
-    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
     "Pasted image 20261117151425.png",
     "Pasted image 20261117151212.png",
     "Pasted image 20261117151136.png",
@@ -254,7 +248,6 @@
     "sem 1/Self Study Notes/Machine Learning/Week 1/5. Types.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/23. Naive Bayes - Multiple conditional variables.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/23. ML Design Cycle Stages.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/22. Naive Bayes - Bayes Rulea.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1",
     "sem 1/Self Study Notes/Machine Learning/Week 3",
     "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
