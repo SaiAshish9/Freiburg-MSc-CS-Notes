@@ -6,6 +6,7 @@
       {
         "id": "9131467f24e38322",
         "type": "tabs",
+        "dimension": 39.007782101167315,
         "children": [
           {
             "id": "52e8b4cdef70ddbb",
@@ -26,6 +27,7 @@
       {
         "id": "a8ee5ac5c47d0084",
         "type": "tabs",
+        "dimension": 60.99221789883269,
         "children": [
           {
             "id": "ef8e54142611cc30",
@@ -73,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#machine-learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,22 +212,22 @@
   },
   "active": "52e8b4cdef70ddbb",
   "lastOpenFiles": [
-    "Pasted image 20261117151425.png",
-    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
     "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
+    "Pasted image 20261117152113.png",
+    "Pasted image 20261117152046.png",
+    "Pasted image 20261117151940.png",
+    "Pasted image 20261117151936.png",
+    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
+    "Pasted image 20261117151425.png",
     "Pasted image 20261117151212.png",
     "Pasted image 20261117151136.png",
     "Pasted image 20261117151111.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/4. Expected Values.md",
     "Pasted image 20261117150103.png",
     "Pasted image 20261117150044.png",
-    "Pasted image 20261117150014.png",
-    "Pasted image 20261117150007.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/3. Bias-Variance Trade-Off.md",
-    "Pasted image 20261117142432.png",
-    "Pasted image 20261117142421.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/2. Generalization Performance.md",
-    "Pasted image 20261117141628.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/1. Introduction.md",
     "sem 1/Exercises/Digital Health/Class Notes.md",
     "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
