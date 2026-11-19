@@ -13,6 +13,8 @@ Declare the use of AI, it doesn't affect the grade once declared
 Shirdisaibaba@9999
 
 eghi.bexome.com/digitalhealth26
+eghi.bexome.com/digitalhealth26
+
 
 Aditya.kumar@hahn-schickard.de
 
@@ -30,3 +32,7 @@ learn RNN and lstm cell
 supervised models
 
 date are confidential data
+
+---
+
+https://luma.com/b5u6jpl1?lm_source=event&lm_api_id=evt-psGyp5g1UDJ0JQb&lm_medium=blast&lc=0STP537615

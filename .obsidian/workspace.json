@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9131467f24e38322",
+        "id": "1f430423309f337e",
         "type": "tabs",
         "children": [
           {
-            "id": "52e8b4cdef70ddbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Bias-Variance TradeOff"
-            }
-          },
-          {
-            "id": "ef8e54142611cc30",
+            "id": "4ed646dd1dc8d90d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "6. Regularization"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.8574905395508,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -204,52 +189,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef8e54142611cc30",
+  "active": "4ed646dd1dc8d90d",
   "lastOpenFiles": [
-    "sem 1/Machine Leaning/03 Principles of Regularization.pdf",
-    "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
+    "Pasted image 20261120052142.png",
+    "Pasted image 20261120052127.png",
+    "Pasted image 20261120052114.png",
+    "Pasted image 20261120052102.png",
+    "Pasted image 20261120052037.png",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/03 Principles of Regularization.pdf",
     "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/3. Feature Space Partitioning.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
+    "sem 1/Resources/Machine Learning/03 Principles of Regularization.pdf",
+    "sem 1/Self Study Notes/Machine Learning/Week 3/5. Bias-Variance TradeOff.md",
+    "sem 1/Exercises/Digital Health/Class Notes.md",
+    "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
+    "sem 1/Exercises/Digital Health/Oct 29.md",
+    "sem 1/APIS Germin/16.11.26.md",
+    "Pasted image 20261118235439.png",
+    "sem 1/Self Study Notes/German A2/18.11.26.md",
+    "sem 1/Self Study Notes/German A2/07.11.26.md",
+    "sem 1/APIS Germin/APIS.md",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L02_Medical-Mobile-and-Ambient-Data_Cypko_2026_v2.pdf",
+    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
+    "sem 1/Resources/Digital Health/02.11.26/DH_L03_AI_Methods+Applications_Cypko_2026.pdf",
+    "Pasted image 20261118005230.png",
+    "Pasted image 20261117233735.png",
+    "Pasted image 20261117193626.png",
+    "Pasted image 20261117193518.png",
     "Pasted image 20261117152113.png",
-    "Pasted image 20261117152046.png",
-    "Pasted image 20261117151940.png",
-    "Pasted image 20261117151936.png",
-    "Pasted image 20261117151425.png",
-    "Pasted image 20261117151212.png",
-    "Pasted image 20261117151136.png",
-    "Pasted image 20261117151111.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/4. Expected Values.md",
-    "Pasted image 20261117150103.png",
-    "Pasted image 20261117150044.png",
     "sem 1/Self Study Notes/Machine Learning/Week 3/3. Bias-Variance Trade-Off.md",
     "sem 1/Self Study Notes/Machine Learning/Week 3/2. Generalization Performance.md",
     "sem 1/Self Study Notes/Machine Learning/Week 3/1. Introduction.md",
-    "sem 1/Exercises/Digital Health/Class Notes.md",
-    "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
     "sem 1/Foundations of Deep Learning/20.10.26.md",
     "sem 1/Foundations of Deep Learning/03.11.26.md",
     "sem 1/APIS Germin/26.10.26.md",
     "sem 1/APIS Germin/02.11.26.md",
     "sem 1/APIS Germin/09.11.26.md",
     "sem 1/APIS Germin/11.11.26.md",
-    "sem 1/APIS Germin/17.11.26.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
-    "sem 1/Self Study Notes/German A2/07.11.26.md",
-    "sem 1/Resources/Digital Health/19.10.26/DH_L01_DigitalHealthOverview.pdf",
     "sem 1/Digital Health/26.10.26.md",
     "sem 1/Digital Health/19.10.26.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/3. Feature Space Partitioning.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/2. Step Functions as Prediction Models.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/1. Introduction.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/Unconfirmed 18913.crdownload",
-    "sem 1/Resources/Machine Learning/03 Principles of Regularization.pdf",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees",
     "sem 1/Self Study Notes/Machine Learning/Week 4/1. Introduction To SVMs.md",
-    "sem 1/Exercises/Digital Health/Oct 29.md",
     "sem 1/Self Study Notes/Machine Learning/Week 1/5. Types.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/23. Naive Bayes - Multiple conditional variables.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1/23. ML Design Cycle Stages.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 1",
-    "sem 1/Self Study Notes/Machine Learning/Week 3",
-    "sem 1/Resources/Machine Learning/19.10.26/02 Linear Methods.pdf"
+    "sem 1/Self Study Notes/Machine Learning/Week 1"
   ]
 }
