@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/10. Information Gain.md",
+                "file": "sem 1/APIS Germin/16.11.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Information Gain"
+              "title": "16.11.26"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "8ab3edbb873ac184",
   "lastOpenFiles": [
-    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/9. Classification Entropy.md",
+    "Pasted image 20261123212432.png",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/10. Information Gain.md",
+    "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/9. Classification Entropy.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/7. Impurity and best split.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
     "Pasted image 20261122184904.png",
@@ -228,7 +229,6 @@
     "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/5. Optimizing the perceptron.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/4. Linear Classification Model.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/3. Linear Model.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/2. Linear Hyperplane.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4/Unconfirmed 198816.crdownload",
     "dl2026-ex04-opt-deepsee/submission.synctex(busy)",
     "dl2026-ex04-opt-deepsee/pdflatex119972.fls",
