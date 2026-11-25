@@ -164,7 +164,6 @@ In Indien sagt man Namaste und Namaste (oder Tschüss).
 - Unterstreichen => Underline
 - Bilden => Form / Make / Build (e.g., sentences or questions)
 - Achten Sie => Pay attention / Make sure (formal imperative)
-- Formen Sie => Transform / Change / Form (formal imperative)
 - Tauschen Sie => Exchange / Swap / Trade (formal imperative)
 
 ---
