@@ -1,4 +1,7 @@
 
+hinterzarten => S1 ca.25 mins
+Mattisleweiher => ca 1hr hike => frozen lake
+
 Ich auch => Mee too
 nicht gerne
 nicht so gerne

@@ -90,3 +90,94 @@
 > [!tip] Tipp
 > Ersetze Name, Studienfach und Hobbys durch deine eigenen Angaben. Achte auf die Konjugation (ich **wohne**, ich **studiere**, ich **spiele**).
 
+''
+
+1. Nina => a
+2. Niklas => b
+3. Julia => b
+
+---
+
+50 percent
+
+---
+1. die Kinder
+2. die Tante
+3. die Frau
+4. der Sohn
+5. die Schwester
+
+
+---
+
+1. Sarah und Felix sind **Kinder** von Peter und Lucie.
+2. Susanne ist **die Tante** von Sarah und Felix.
+3. Lucie ist **die Frau** von Peter.
+4. Felix ist **der Sohn** von Peter und Lucie.
+5. Susanne ist **die Schwester** von Peter.
+6. Peter und Lucie sind **die Eltern** von Sarah und Felix.
+7. Felix ist **der Bruder** von Sarah.
+8. Ben ist **der Onkel** von Sarah und Felix.
+9. Sarah ist **die Tochter** von Peter und Lucie.
+10. Ben ist **der Bruder** von Peter.
+11. Peter ist **der Mann** von Lucie.
+---
+
+a =>c
+1. e
+2. b
+3. a
+4. d
+---
+
+![[Pasted image 20261125234423.png]]![[Pasted image 20261125234459.png]]
+
+a. zusammen in Berlin
+b. verheirartet
+c. geschieden
+d. jetzt allein in Koeln
+
+a. Ingeniur bei Seimens
+b. Franzoesischlehrerein
+c. Jounalistin
+d. ist Kommissar bei der Polizei
+
+a. Englisch und Franzoesisch, Duestch
+b. Duestch und Italienisch, Franzoesisch
+c. Franzoesisch
+
+a. Kocht gern
+b. Liest gern Liebesromane
+c. hoert gern Popmusik und kocht auch gern
+d. spielt gern Computerspiele
+e. speilt gern Gitarre
+
+---
+
+
+![[Pasted image 20261126000616.png]]
+
+1. Seine
+2. seine
+3. ihre
+4. Ihre
+5. seine
+6. Ihr
+
+
+only these nouns and verbs
+
+for the test
+S23 => 25
+S45 => 47
+
+----
+
+
+Ich habe eine Frage
+Kannst du das buchstabieren?
+Ich verstehe das nicht
+
+Monday
+
+---

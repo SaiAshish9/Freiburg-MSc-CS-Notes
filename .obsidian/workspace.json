@@ -6,6 +6,7 @@
       {
         "id": "debb04140efb87ac",
         "type": "tabs",
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "5a6cc3e29e84c3d9",
@@ -19,6 +20,25 @@
               },
               "icon": "lucide-file",
               "title": "Test"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1dd03cbc8e412a1",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "ceb0805014e156f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem 1/APIS Germin/Probetest_ practice test.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Probetest_ practice test"
             }
           }
         ]
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.1242141723633
+    "width": 294.1242141723633,
+    "collapsed": true
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -190,9 +211,14 @@
   },
   "active": "5a6cc3e29e84c3d9",
   "lastOpenFiles": [
-    "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
-    "sem 1/APIS Germin/Test.md",
+    "Pasted image 20261126000616.png",
     "sem 1/APIS Germin/Probetest_ practice test.pdf",
+    "sem 1/APIS Germin/Test.md",
+    "Pasted image 20261125234459.png",
+    "Pasted image 20261125234423.png",
+    "sem 1/APIS Germin/Checkliste Test 30.11.26.pdf",
+    "sem 1/APIS Germin/APIS.md",
+    "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
     "sem 1/APIS Germin/25 Percent Test Chapter 1.md",
     "Pasted image 20261125175719.png",
     "Pasted image 20261124191702.png",
@@ -207,9 +233,7 @@
     "Pasted image 20261124143527.png",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/10. Information Gain.md",
     "Pasted image 20261124143423.png",
-    "Pasted image 20261124140508.png",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
-    "Pasted image 20261124133710.png",
     "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf",
     "sem 1/Machine Leaning/02.11.26.md",
     "sem 1/APIS Germin/16.11.26.md",
@@ -231,10 +255,7 @@
     "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
     "sem 1/Self Study Notes/Machine Learning/Week 3/1. Introduction.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/1. Introduction To SVMs.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/10. Dual.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/9. Lagrangian Optimization Intuition.md",
     "sem 1/Self Study Notes/Machine Learning/Week 4/Unconfirmed 198816.crdownload",
-    "dl2026-ex04-opt-deepsee/submission.synctex(busy)",
-    "dl2026-ex04-opt-deepsee/pdflatex119972.fls"
+    "dl2026-ex04-opt-deepsee/submission.synctex(busy)"
   ]
 }
