@@ -159,7 +159,6 @@ Greeting and farewell in your home country.
 In Indien sagt man Namaste und Namaste (oder Tschüss).
 
 - Berichten => Report / Give an account
-- Kursteilnummer => Course section number / Course part number
 - Ergänzen Sie => Complete / Fill in / Add to
 - Unterstreichen => Underline
 - Bilden => Form / Make / Build (e.g., sentences or questions)
