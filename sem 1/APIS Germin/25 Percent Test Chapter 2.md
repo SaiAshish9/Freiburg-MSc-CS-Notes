@@ -17,12 +17,12 @@ Quadkilometer groSS.
 | **7** | **Knut ist Student.** Er liest viele Bücher.                                      | **Knut is a student.** He reads many books.                                   |
 | **8** | **Herr Faber arbeitet als Architekt.** Er präsentiert oft Projekte.               | **Mr. Faber works as an architect.** He often presents projects.              |
 | **9** | **Eva ist Ingenieurin.** Sie konstruiert Solarautos. Sie hat viele Besprechungen. | **Eva is an engineer.** She designs/builds solar cars. She has many meetings. |
-bedient
-entwickelt
-konstruiert
-untersucht
-unterrichtet
-Besprechungen
+bedient => serve
+entwickelt => develops
+konstruiert => construct
+untersucht => examines
+unterrichtet => teaches
+die Besprechungen => meetings
 
 ---
 
@@ -58,7 +58,16 @@ der
 8. Name
 9. Kellner
 10. Kuenstler
-11. 
+11. Bildschrim
+12. Schreibtisch
+13. Student 
+14. Patient
+15. Assistent
+16. Ingenieur
+17. Lippenstift
+18. Kalender
+19. Drucker
+20. Laptop
 
 das
 1. Handy
@@ -67,6 +76,10 @@ das
 4. Auto
 5. LehrBuch
 6. Buch
+7. Buero
+8. Cello
+9. Woeterbuch
+10. Telefon
 
 die
 1. Brille => Glasses
@@ -80,7 +93,11 @@ die
 9. Zeitschrift
 10. Flasche
 11. Kaffeemaschine
+12. Praesentation
+13. Modezeitschrift
 
 ---
 
 
+![[Pasted image 20261126160920.png]]
+![[Pasted image 20261126160936.png]]![[Pasted image 20261126161013.png]]

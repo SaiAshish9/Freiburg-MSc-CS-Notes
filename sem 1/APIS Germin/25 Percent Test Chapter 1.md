@@ -166,3 +166,6 @@ In Indien sagt man Namaste und Namaste (oder Tschüss).
 - Tauschen Sie => Exchange / Swap / Trade (formal imperative)
 
 ---
+
+![[Pasted image 20261126161310.png]]
+![[Pasted image 20261126161324.png]]

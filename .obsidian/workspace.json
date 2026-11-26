@@ -6,7 +6,6 @@
       {
         "id": "debb04140efb87ac",
         "type": "tabs",
-        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "5a6cc3e29e84c3d9",
@@ -14,31 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem 1/APIS Germin/Test.md",
+                "file": "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b1dd03cbc8e412a1",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "ceb0805014e156f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem 1/APIS Germin/Probetest_ practice test.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Probetest_ practice test"
+              "title": "25 Percent Test Chapter 2"
             }
           }
         ]
@@ -211,28 +191,27 @@
   },
   "active": "5a6cc3e29e84c3d9",
   "lastOpenFiles": [
-    "Pasted image 20261126000616.png",
+    "sem 1/APIS Germin/25 Percent Test Chapter 1.md",
+    "Pasted image 20261126161324.png",
+    "Pasted image 20261126161310.png",
+    "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
+    "Pasted image 20261126161013.png",
+    "Pasted image 20261126160936.png",
+    "Pasted image 20261126160920.png",
     "sem 1/APIS Germin/Probetest_ practice test.pdf",
+    "sem 1/APIS Germin/Checkliste Test 30.11.26.pdf",
     "sem 1/APIS Germin/Test.md",
+    "Pasted image 20261126000616.png",
     "Pasted image 20261125234459.png",
     "Pasted image 20261125234423.png",
-    "sem 1/APIS Germin/Checkliste Test 30.11.26.pdf",
     "sem 1/APIS Germin/APIS.md",
-    "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
-    "sem 1/APIS Germin/25 Percent Test Chapter 1.md",
     "Pasted image 20261125175719.png",
     "Pasted image 20261124191702.png",
-    "Pasted image 20261124170531.png",
     "sem 1/Self Study Notes/Machine Learning/Week 6 Neural Networks/06 - Neural Network - 1.pdf",
     "sem 1/Self Study Notes/Machine Learning/Week 6 Neural Networks/1. Introduction.md",
     "sem 1/Self Study Notes/Machine Learning/Week 6 Neural Networks",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/11. Properties.md",
-    "Pasted image 20261124143604.png",
-    "Pasted image 20261124143552.png",
-    "Pasted image 20261124143542.png",
-    "Pasted image 20261124143527.png",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/10. Information Gain.md",
-    "Pasted image 20261124143423.png",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
     "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf",
     "sem 1/Machine Leaning/02.11.26.md",
