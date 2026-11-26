@@ -48,53 +48,62 @@ Sai ist Student. Er leist viele Buecher.
 ---
 
 der
-1. Tisch
-2. Stuhl
-3. Regenschrim
-4. Computer
-5. Schluessel
-6. Stift
-7. FuSSball
-8. Name
-9. Kellner
-10. Kuenstler
-11. Bildschrim
-12. Schreibtisch
-13. Student 
-14. Patient
-15. Assistent
-16. Ingenieur
-17. Lippenstift
-18. Kalender
-19. Drucker
-20. Laptop
+
+| # | German | English | Notes |
+| :- | :--- | :--- | :--- |
+| 1 | **Tisch** | the table | |
+| 2 | **Stuhl** | the chair | |
+| 3 | **Regenschirm** | the umbrella | *Spelling corrected from Regenschrim* |
+| 4 | **Computer** | the computer | |
+| 5 | **Schlüssel** | the key | *Alt: Schluessel* |
+| 6 | **Stift** | the pen | |
+| 7 | **Fußball** | the soccer ball / football | *Alt: FuSSball* |
+| 8 | **Name** | the name | |
+| 9 | **Kellner** | the waiter | |
+| 10 | **Künstler** | the artist | *Alt: Kuenstler* |
+| 11 | **Bildschirm** | the screen / monitor | *Spelling corrected from Bildschrim* |
+| 12 | **Schreibtisch** | the desk | |
+| 13 | **Student** | the student | *University level* |
+| 14 | **Patient** | the patient | |
+| 15 | **Assistent** | the assistant | |
+| 16 | **Ingenieur** | the engineer | |
+| 17 | **Lippenstift** | the lipstick | |
+| 18 | **Kalender** | the calendar | |
+| 19 | **Drucker** | the printer | |
+| 20 | **Laptop** | the laptop | |
 
 das
-1. Handy
-2. Medikament
-3. Bild
-4. Auto
-5. LehrBuch
-6. Buch
-7. Buero
-8. Cello
-9. Woeterbuch
-10. Telefon
+
+| # | German | English | Notes |
+| :- | :--- | :--- | :--- |
+| 1 | **Handy** | the mobile phone / cell phone | |
+| 2 | **Medikament** | the medication / medicine | |
+| 3 | **Bild** | the picture / image | |
+| 4 | **Auto** | the car | |
+| 5 | **Lehrbuch** | the textbook | *Capitalization corrected from LehrBuch* |
+| 6 | **Buch** | the book | |
+| 7 | **Büro** | the office | *Alt: Buero* |
+| 8 | **Cello** | the cello | |
+| 9 | **Wörterbuch** | the dictionary | *Spelling corrected from Woeterbuch* |
+| 10 | **Telefon** | the telephone | |
 
 die
-1. Brille => Glasses
-2. Zeitung
-3. Uhr
-4. Tasche
-5. Lampe
-6. Seite
-7. Tasse
-8. Tuer
-9. Zeitschrift
-10. Flasche
-11. Kaffeemaschine
-12. Praesentation
-13. Modezeitschrift
+
+| # | German | English | Notes |
+| :- | :--- | :--- | :--- |
+| 1 | **Brille** | the glasses | |
+| 2 | **Zeitung** | the newspaper | |
+| 3 | **Uhr** | the clock / watch | |
+| 4 | **Tasche** | the bag / pocket | |
+| 5 | **Lampe** | the lamp | |
+| 6 | **Seite** | the page / side | |
+| 7 | **Tasse** | the cup / mug | |
+| 8 | **Tür** | the door | *Alt: Tuer* |
+| 9 | **Zeitschrift** | the magazine / journal | |
+| 10 | **Flasche** | the bottle | |
+| 11 | **Kaffeemaschine** | the coffee machine | |
+| 12 | **Präsentation** | the presentation | *Alt: Praesentation* |
+| 13 | **Modezeitschrift** | the fashion magazine | |
 
 ---
 
