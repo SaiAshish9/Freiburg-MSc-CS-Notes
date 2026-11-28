@@ -110,3 +110,16 @@ die
 
 ![[Pasted image 20261126160920.png]]
 ![[Pasted image 20261126160936.png]]![[Pasted image 20261126161013.png]]
+
+---
+
+der
+TSRCSSFNKKBSSPAILKDL
+
+das
+HMBALBBCWT
+
+die
+BZUTLSTTZFKPM
+
+![[Pasted image 20261128212918.png]]

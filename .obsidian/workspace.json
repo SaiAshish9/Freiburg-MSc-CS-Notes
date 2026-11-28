@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a6cc3e29e84c3d9",
+            "id": "bff8aa3aaefe8b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,6 +22,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "10b23d91642d3140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def95b5ed6b51318",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem 1/APIS Germin/Probetest_ practice test.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Probetest_ practice test"
+            }
+          },
+          {
+            "id": "c73ca4d4bda4837d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem 1/APIS Germin/Probetest_Deutsch_A1.1_Loesungen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Probetest_Deutsch_A1.1_Loesungen"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.1242141723633,
-    "collapsed": true
+    "width": 294.1242141723633
   },
   "right": {
     "id": "8940aafacdfd3baf",
@@ -189,22 +219,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a6cc3e29e84c3d9",
+  "active": "bff8aa3aaefe8b9b",
   "lastOpenFiles": [
+    "Pasted image 20261128212918.png",
+    "sem 1/APIS Germin/Test.md",
+    "sem 1/APIS Germin/Praesentation 23.11.pdf",
+    "sem 1/APIS Germin/Unconfirmed 255908.crdownload",
+    "sem 1/APIS Germin/Probetest_Deutsch_A1.1_Loesungen.pdf",
+    "sem 1/APIS Germin/Probetest_ practice test.pdf",
+    "sem 1/APIS Germin/APIS.md",
+    "sem 1/APIS Germin/Checkliste Test 30.11.26.pdf",
+    "sem 1/APIS Germin/16.11.26.md",
+    "sem 1/APIS Germin/26.10.26.md",
+    "sem 1/APIS Germin/21.10.26.md",
     "sem 1/APIS Germin/25 Percent Test Chapter 1.md",
+    "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
+    "sem 1/Exercises/Digital Health/Class Notes.md",
+    "sem 1/Exercises/Digital Health/a50e199d-94cf-4d89-8691-a3a30fe06190.pdf",
     "Pasted image 20261126161324.png",
     "Pasted image 20261126161310.png",
-    "sem 1/APIS Germin/25 Percent Test Chapter 2.md",
     "Pasted image 20261126161013.png",
     "Pasted image 20261126160936.png",
     "Pasted image 20261126160920.png",
-    "sem 1/APIS Germin/Probetest_ practice test.pdf",
-    "sem 1/APIS Germin/Checkliste Test 30.11.26.pdf",
-    "sem 1/APIS Germin/Test.md",
+    "sem 1/Digital Health/Test.md",
     "Pasted image 20261126000616.png",
     "Pasted image 20261125234459.png",
     "Pasted image 20261125234423.png",
-    "sem 1/APIS Germin/APIS.md",
     "Pasted image 20261125175719.png",
     "Pasted image 20261124191702.png",
     "sem 1/Self Study Notes/Machine Learning/Week 6 Neural Networks/06 - Neural Network - 1.pdf",
@@ -215,7 +255,6 @@
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/05 - Decision Trees.pdf",
     "sem 1/Resources/Machine Learning/Lecture 04-SVM.pdf",
     "sem 1/Machine Leaning/02.11.26.md",
-    "sem 1/APIS Germin/16.11.26.md",
     "sem 1/APIS Germin/19.10.26.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/9. Classification Entropy.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/7. Impurity and best split.md",
@@ -227,14 +266,6 @@
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/3. Feature Space Partitioning.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/2. Step Functions as Prediction Models.md",
     "sem 1/Self Study Notes/Machine Learning/Week 5 Decision Trees/1. Introduction.md",
-    "sem 1/Resources/Probability And Statistics/01_Introduction.pdf",
-    "sem 1/Probability and Statistics/20.10.26.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/11. Non Linear.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/Lecture 04-SVM (2).pdf",
-    "sem 1/Self Study Notes/Machine Learning/Week 3/6. Regularization.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 3/1. Introduction.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4 SVMs/1. Introduction To SVMs.md",
-    "sem 1/Self Study Notes/Machine Learning/Week 4/Unconfirmed 198816.crdownload",
-    "dl2026-ex04-opt-deepsee/submission.synctex(busy)"
+    "sem 1/Probability and Statistics/20.10.26.md"
   ]
 }
